@@ -8650,7 +8650,8 @@
 - [Patrycjusz Kowalski](https://github.com/patrycjuszkowalski)
 - hi i'm wintervoid (she/her). I can't wait to start contributing on github! [Profile](https://github.com/wintervoid)
 - Hi. I'm Mareli (she/her). Can't wait to help!
-  [Cameron Godwin](https://github.com/GodwinCameron) 👹
-  [Anké Du Raan] (https://github.com/AnkeatOpenWindow)
+- [Cameron Godwin](https://github.com/GodwinCameron) 👹
+- [Anké Du Raan] (https://github.com/AnkeatOpenWindow)
+- Hi! Kilroy was here!
 - Hi, I am Balint.
 - Hi, I'm [Sandor](https://github.com/AlexAegis)

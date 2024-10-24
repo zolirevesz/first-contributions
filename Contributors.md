@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- Hello I am Adam
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
 - Hello, I am Celine Mang! (https://github.com/celinemang )
@@ -146,6 +147,7 @@
 - Hi everyone Im Pavel Mansilla [pav-dev98](https://github.com/pav-dev98) this is my first contribution, greetings from Peru.
   Hi everyone I'm Kithmini Mayodya
 - Hello! I'm [Lika](https://github.com/leilatdantas) <3
+- Hi, gamarjoba, I'm [Nia](https://github.com/ntatrishvili)
 - Hello world! I'm Raşit Yılmaz [rasityilmazdev](https://github.com/rasityilmazdev) and this is my first open source contribution.
 - woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
 - Hi , I am [Manish Walia](https://github.com/manishwalia15). This is my first contribution.
@@ -295,6 +297,7 @@
 - Hi there, I'm [Varsha](https://github.com/varshapandiann) :)
 - Hello! I'm Chris!
 - Hello! I'm Mahita!
+- Hello from Bence!
 - Hi, I'm [Muhammad Mohad](https://github.com/Muhammad-Mohad) and here is my first open source contribution
 - Hello, I'm [Prabal Singh](https://github.com/prblsing). Excited to be part of this community and contribute to open-source projects! 🚀💡 Always eager to learn and build together!
 - **Brace yourselves!** Mohamed Nour is here to code, conquer, and contribute! 💻✨ [Check me out on GitHub](https://github.com/MohamedNourDerbeli) before I accidentally break the internet... again. 😅 First open-source PR, but definitely not the last!
@@ -664,6 +667,7 @@
   Jojo
 - hello
 - Mode Edna
+- Hello Daniel Borsos
 - ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
 - [bhakti](https://github.com/BhaktiMore18) **Great way to learn how to contribute for the first time!!**
@@ -8647,4 +8651,5 @@
 - Hi. I'm Mareli (she/her). Can't wait to help!
   [Cameron Godwin](https://github.com/GodwinCameron) 👹
   [Anké Du Raan] (https://github.com/AnkeatOpenWindow)
+- Hi, I am Balint.
 - Hi, I'm [Sandor](https://github.com/AlexAegis)
